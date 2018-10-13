@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ETA Prototype</string>
+    <string name="temperature">ტემპერატურა</string>
+    <string name="humidity">სინესტე</string>
+    <string name="mode">რეჟიმი</string>
+    <string name="water_level">წყლის დონე</string>
+    <string name="refresh">Refresh</string>
+</resources>
