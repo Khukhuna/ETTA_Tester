@@ -1,5 +1,6 @@
 # ETTA
 **2nd place** :tada: :gift:
+
 Project: Automating Irrigation systems using Machine Learning.  
 IoT Hackathon for University Students 2018 | Tbilisi, Georgia.
 
